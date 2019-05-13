@@ -67,7 +67,7 @@
 
 
 
-
+<!-- 
 <div class="large-card-container glide" id="large-card-container-specialOffers">
 	<h1 class="underline-headings large-card-container__title"><a class="link-thin-arrow" href=""> SPECIALS</a></h1>
 	<div class="glide__arrows large-card-container__buttons" data-glide-el="controls">
@@ -142,7 +142,7 @@
 			 
 		</div>
 	</div>
-</div>
+</div> -->
 
 
 
